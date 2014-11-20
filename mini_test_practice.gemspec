@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MiniTestPractice::VERSION
   spec.authors       = ["kikuko toda"]
   spec.email         = ["k-toda@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{This is my homework.}
+  spec.description   = %q{This is my homework.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

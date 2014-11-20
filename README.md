@@ -1,6 +1,6 @@
 # MiniTestPractice
 
-TODO: Write a gem description
+This is my homework.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+none
 
 ## Contributing
 
