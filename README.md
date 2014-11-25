@@ -1,4 +1,5 @@
 # MiniTestPractice
+[![Build Status](https://travis-ci.org/Todachii/mini_test_practice.svg?branch=v0.0.1)](https://travis-ci.org/Todachii/mini_test_practice)
 
 This is my homework.
 
